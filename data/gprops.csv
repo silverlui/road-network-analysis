@@ -1,0 +1,6 @@
+# prop_name, value
+name,us_roads (FL)
+description,The road networks of the 50 US States and the District of Columbia based on UA Census 2000 TIGER/Line Files.  Edges are stretches of road and vertices are intersections of roads. The data sets were assembled by Dominik Schultes. The 'merged' network contains all the states merged together.
+citation,"['9th DIMACS Implementation Challenge - Shortest Paths, http://www.dis.uniroma1.it/challenge9/data/tiger/']"
+url,http://www.dis.uniroma1.it/challenge9/data/tiger/
+tags,"['Transportation', 'Roads', 'Unweighted']"
